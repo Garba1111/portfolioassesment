@@ -795,6 +795,7 @@ i.fa.fa-envelope-o {
 		padding: 30px 10px;
 	}
 	#header{
+		display:none;
 		width: 100%;
 		
 		}
@@ -802,9 +803,9 @@ i.fa.fa-envelope-o {
 		font-size: 100px;
     margin: 0;
     margin-bottom: 15px;  
-/*     font-family: 'Milonga', cursive; */
+    font-family: 'Milonga', cursive;
     font-weight: 200;
-    font-family: 'Rouge Script', cursive;
+/*     font-family: 'Rouge Script', cursive; */
     line-height: 50px;
     color: #fff;
     letter-spacing: 1px;
