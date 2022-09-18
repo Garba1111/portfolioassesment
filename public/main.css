@@ -795,6 +795,9 @@ i.fa.fa-envelope-o {
 	margin:0%;
 	padding:0%;
 	}
+	#header{
+	display:none;
+	}
 	
 	
 @media only screen and (max-width : 640px) {
