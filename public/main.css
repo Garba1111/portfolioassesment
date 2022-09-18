@@ -6,7 +6,7 @@ Author URI: http://themewagon.com/
 Description: Slick One page HTML 5 template powered by Bootstrap 3.
 Version: 1.14.11
 License: GNU General Public License v3
-License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+License URI: http://www.gnu.org/licenses/gpl-3.0.txtr
 Tags: blue, white, one page, parallax, responsive-layout, full-width-template
 Text Domain: developer
 */
@@ -793,6 +793,11 @@ i.fa.fa-envelope-o {
 @media (max-width: 500px) {
 	.contact-info {
 		padding: 30px 10px;
+	}
+	#header{
+		width: 100%;
+		padding: 3%;
+		background-size: cover;
 	}
 }
 
