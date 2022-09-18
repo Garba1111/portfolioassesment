@@ -791,13 +791,13 @@ i.fa.fa-envelope-o {
 }
 
 @media (max-width: 480px) {
-/* 	.contact-info {
-		padding: 30px 10px; */
+	.contact-info {
+		padding: 30px 10px;
 	}
 	#header{
 		width: 100%;
-		padding: 3%;
-		background-size: cover;
+		
+		
 	}
 }
 
