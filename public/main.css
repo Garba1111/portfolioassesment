@@ -799,12 +799,14 @@ i.fa.fa-envelope-o {
 		padding: 30px 10px;
 	}
 	#site-header{
+	
 	width:100%
 	}
 	#header{
 		width: 100%;
 		}
 	#overlay-1{
+		display:none;
 	width:100;
 	}
 	.pro-name{
