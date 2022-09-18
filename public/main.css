@@ -793,7 +793,7 @@ i.fa.fa-envelope-o {
 @media (max-width: 480px) {
 	*{
 	margin:0%;
-		padding:0%;
+	padding:0%;
 	}
 	.contact-info {
 		padding: 30px 10px;
@@ -802,12 +802,13 @@ i.fa.fa-envelope-o {
 	width:100%
 	}
 	#header{
-		
 		width: 100%;
-		
 		}
+	#overlay-1{
+	width:100;
+	}
 	.pro-name{
-		font-size: 100px;
+		 font-size: 100px;
     margin: 0;
     margin-bottom: 15px;  
     font-family: 'Milonga', cursive;
