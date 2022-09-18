@@ -790,13 +790,13 @@ i.fa.fa-envelope-o {
 	}
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
 	.contact-info {
 		padding: 30px 10px;
 	}
 	#header{
 		width: 100%;
-		padding: 3%;
+		padding: 13%;
 		background-size: cover;
 	}
 }
@@ -814,6 +814,10 @@ i.fa.fa-envelope-o {
     -o-background-size: cover;
     background-size: cover;
     }
+} 
+@media (max-width: 320px){
+background-size: cover;
 }
+
 
 
